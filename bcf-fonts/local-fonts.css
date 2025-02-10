@@ -1,0 +1,1667 @@
+
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal0.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal1.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal10.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal100.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal101.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal102.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal103.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal104.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal105.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal106.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal107.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal108.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal109.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal11.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal110.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal111.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal112.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal113.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal114.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal115.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal116.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal117.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal118.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal12.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal13.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal14.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal15.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal16.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal17.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal18.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal19.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal2.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal20.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal21.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal22.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal23.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal24.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal25.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal26.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal27.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal28.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal29.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal3.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal30.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal31.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal32.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal33.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal34.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal35.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal36.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal37.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal38.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal39.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal4.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal40.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal41.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal42.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal43.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal44.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal45.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal46.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal47.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal48.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal49.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal5.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal50.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal51.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal52.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal53.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal54.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal55.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal56.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal57.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal58.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal59.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal6.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal60.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal61.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal62.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal63.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal64.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal65.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal66.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal67.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal68.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal69.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal7.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal70.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal71.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal72.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal73.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal74.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal75.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal76.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal77.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal78.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal79.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal8.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal80.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal81.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal82.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal83.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal84.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal85.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal86.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal87.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal88.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal89.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal9.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal90.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal91.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal92.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal93.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal94.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal95.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal96.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal97.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal98.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-400-normal99.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal0.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal1.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal10.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal100.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal101.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal102.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal103.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal104.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal105.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal106.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal107.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal108.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal109.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal11.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal110.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal111.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal112.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal113.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal114.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal115.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal116.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal117.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal118.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal12.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal13.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal14.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal15.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal16.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal17.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal18.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal19.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal2.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal20.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal21.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal22.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal23.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal24.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal25.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal26.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal27.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal28.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal29.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal3.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal30.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal31.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal32.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal33.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal34.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal35.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal36.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal37.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal38.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal39.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal4.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal40.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal41.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal42.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal43.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal44.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal45.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal46.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal47.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal48.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal49.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal5.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal50.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal51.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal52.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal53.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal54.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal55.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal56.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal57.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal58.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal59.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal6.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal60.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal61.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal62.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal63.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal64.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal65.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal66.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal67.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal68.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal69.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal7.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal70.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal71.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal72.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal73.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal74.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal75.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal76.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal77.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal78.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal79.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal8.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal80.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal81.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal82.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal83.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal84.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal85.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal86.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal87.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal88.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal89.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal9.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal90.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal91.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal92.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal93.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal94.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal95.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal96.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal97.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal98.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
+						@font-face {
+							font-family: 'm';
+							src: url('http://pixelvault.local/wp-content/bcf-fonts/M PLUS 1/m-plus-1-700-normal99.woff2') format('woff2');
+							font-weight: plus;
+							font-style: 1;
+						}
+						
