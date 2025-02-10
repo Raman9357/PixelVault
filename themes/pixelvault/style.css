@@ -30,3 +30,11 @@ Generated on fullsiteediting.com. No code version.
     padding-top: 1.25em;
     padding-bottom: 1.25em;
 }
+
+.entry-content {
+    margin-block-start: 0 !important;
+}
+
+:where(.wp-site-blocks)>* {
+    margin-block-start: 0 !important;
+}
