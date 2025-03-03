@@ -38,3 +38,7 @@ Generated on fullsiteediting.com. No code version.
 :where(.wp-site-blocks)>* {
     margin-block-start: 0 !important;
 }
+
+.woocommerce-product-gallery__image {
+    text-decoration: none;
+}
