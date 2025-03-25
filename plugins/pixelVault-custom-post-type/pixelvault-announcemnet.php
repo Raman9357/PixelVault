@@ -48,16 +48,9 @@ function pixelvault_announcement_pt() {
    $args = array(
 
       'labels'                => $labels,
-      'description'           => __( 'organize and manage company announcements', 'pixelvault' ),
       'public'                => true,
-      'hierarchical'          => false,
-      'exclude_from_search'   => true,
-      'publicly_queryable'    => true,
-      'show_ui'               => true,
-      'show_in_menu'          => true,
-      'show_in_nav_menus'     => false,
+      'has_archive'           => true,
       'show_in_rest'          => true,
-      'menu_position'         => null,
       'menu_icon'             => 'dashicons-megaphone',
       'capability_type'       => 'post',
       'capabilities'          => array(),
@@ -73,6 +66,6 @@ function pixelvault_announcement_pt() {
 
    );
 
-   register_post_type( 'wpdocs_register_announcement_cpt', $args );
+   register_post_type( 'pixelvault_announcement_pt', $args );
 
 }
