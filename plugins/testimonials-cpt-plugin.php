@@ -1,9 +1,7 @@
 <?php
 /*
 Plugin Name: Testimonials CPT Plugin
-Description: Registers a custom post type for Testimonials.
-Version: 1.0
-Author: Your Name
+Author: Ramandeep Singh
 */
 
 
@@ -52,5 +50,5 @@ function create_testimonials_cpt() {
     register_post_type( 'testimonials', $args );
 }
 
-// Hook into the 'init' action so that the function is executed at the right time
+
 add_action( 'init', 'create_testimonials_cpt', 0 );
